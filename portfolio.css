@@ -1,0 +1,152 @@
+.full{
+    display: flex;
+    
+}
+.left{
+    /* flex:1; */
+    width: 30%;
+    background-color: black;
+    
+    color:white;
+   
+
+}
+.right{
+    background-color: white;
+
+    /* flex:5; */
+    width: 80%;
+
+}
+#image{
+    width: 100%;
+}
+.yellowtext
+{
+    padding: 10px 10px;
+   margin-top: 30px;
+    background-color: yellow;
+    text-align: center;
+}
+.education
+{
+    margin-left: 20px;
+    
+}
+#education2{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.edupara
+{
+    color: white;
+    margin-left: 20px;
+}
+.reference
+{
+    margin-left: 20px;
+}
+#reference
+{
+    margin-bottom: 0px;
+}
+
+#referencepara{
+    margin-left: 20px;
+}
+.table
+{
+    margin-left: 20px;
+    margin-top:30px ;
+    text-align: left;
+    width:100%
+    
+}
+.aboutme{
+    margin-left: 20px;
+}
+.educationright{
+    margin-left: 20px;
+}
+.skills{
+    text-align: left;
+}
+.skills{
+    margin-left: 20px;
+}
+
+.yellowlinefull
+{
+ 
+  
+
+}
+.yellowline{
+    
+    color: solid orange;
+    margin-right: 200px;
+   
+}
+.yellowlinepara{
+    
+    color: white;
+}
+
+.contact-container{
+    /* background-color: aqua ; */
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.contact-container p{
+    margin: 0;
+    margin-left: 40px;
+    padding: 0;
+}
+.box-container{
+    display: flex;
+    align-items: center;
+}
+.yellow-box{
+    height: 20px;
+    width: 40px;
+    background-color: orange;
+}
+
+.contact-info p{
+    margin: 0;
+    margin-left: 20px;
+    padding: 0;
+}
+
+.skill-container{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+
+.skill h1{
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+.outer-line{
+    margin-left: 150px;
+    width: 100px;
+    height: 5px;
+    background-color: grey;
+}
+.inner-line{
+    margin-left: 0px;
+    width: 90px;
+    height: 100%;
+    background-color: black;
+}
+
+.inner-line1{
+    margin-left: 0px;
+    width: 90px;
+    height: 100%;
+    background-color: black;
+}

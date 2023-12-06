@@ -1,0 +1,39 @@
+.topnav a{
+    text-decoration: none;
+    margin-left: 0px;
+    color: black;
+    padding: 5px;
+    justify-content: space-evenly;
+ 
+}
+.main{
+    display:flex;
+   
+}
+.topnav{
+    flex:2;
+}
+
+.topnav a{
+    text-decoration:none;
+    margin-left: 40px;
+    color:black;
+    padding: 5px;
+ 
+}
+.topnav a:hover{
+    color: red;
+   
+}
+.topnav a.active{
+    color:red;
+}
+
+.yellowtext
+{
+    padding: 10px 10px;
+   margin-top: 30px;
+    background-color: yellow;
+    text-align: center;
+    width: 100vh;
+}
